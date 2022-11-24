@@ -1,0 +1,8 @@
+.contantier {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    color: white;
+}
