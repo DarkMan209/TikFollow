@@ -1,1 +1,3 @@
-var links = []
+var cites = [
+    ""
+]
